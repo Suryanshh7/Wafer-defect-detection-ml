@@ -52,5 +52,5 @@ To predict whether a wafer is defective using fabrication process data.
 
 ---
 
-## 🧑‍💻 Author
+## Author
 Suryansh
